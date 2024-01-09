@@ -245,7 +245,7 @@ li {
 }
 
 .sec-D-content {
-    color: rgba(7, 2, 17, 0.60);
+    color: rgba(0, 0, 0, 0.6);
     font-family: Inter;
     font-size: 20px;
     line-height: 32px;
@@ -327,3 +327,26 @@ li {
     margin-left: 752px;
     position: absolute;
 } 
+
+.section-F{
+    background-color: #ead9d9;
+    width: 1320px;
+    height: 1138px;
+    margin: 100px 140px;
+}
+.sec-F-head{
+    text-align: left;
+    margin-left: 10px;
+}
+.sec-F-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 900px;
+    margin-top: 10px;
+}
+.sec-F-img{
+   margin-left: 20px;
+}
